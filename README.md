@@ -17,3 +17,7 @@ _Contributors should submit a PR to add their name below, alphabetized by last n
 
 Bryant Thomas Karras, Washington Department of Health
 Jenny Wanger, Linux Foundation Public Health
+
+## License
+
+This is held under the CC BY 4.0 [license](/license.md).
