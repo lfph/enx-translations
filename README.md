@@ -8,7 +8,7 @@ In addition, if there is something where you feel that there might be a better w
 
 We hope that other states can contribute additional languages to this document so that accessibility of the Exposure Notification Express technology continues to grow.
 
-For the moment, these translations are available via a Google document. Please request access to this document using a .gov email address, as at the moment we are granting priority access to public health authorities. Please use the "comment" mode to submit changes and updates.
+These translations are available via a Google document. Please request access to this document using a .gov email address, as at the moment we are granting priority access to public health authorities. Please use the "comment" mode to submit changes and updates.
 
 [Access the translations here](https://docs.google.com/document/d/1Rrz98wySceDbApC-zMlKZ_xY0COkWuKL/edit)
 
