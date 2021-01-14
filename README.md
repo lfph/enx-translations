@@ -17,8 +17,8 @@ For the moment, these translations are available via a Google document. Please r
 
 _Contributors should submit a PR to add their name below, alphabetized by last name._
 
-Bryant Thomas Karras, Washington Department of Health
-Jenny Wanger, Linux Foundation Public Health
+* Bryant Thomas Karras, Washington Department of Health
+* Jenny Wanger, Linux Foundation Public Health
 
 ## License
 
